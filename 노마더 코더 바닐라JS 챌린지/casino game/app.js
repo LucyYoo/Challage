@@ -45,5 +45,3 @@ function haddleBtn(scopeinput, guessinput){
 
 scopeForm.addEventListener("submit", hanndleScope);
 guessForm.addEventListener("submit", handdleCasino);
-
-
